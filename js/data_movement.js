@@ -104,7 +104,7 @@ data_movement = [
     {
         title: "Difficult terrain",
         icon: "stone-pile",
-        subtitle: "Cost modifier: +5ft per 5ft",
+        subtitle: "Cost modifier: 10ft per 5ft",
         reference: "PHB, pg. 182.",
         description: "Moving in difficult terrain costs an additional 5ft per 5ft of movement",
         bullets: [
